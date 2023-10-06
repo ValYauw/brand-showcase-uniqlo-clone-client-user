@@ -16,6 +16,6 @@ Change the URL of the back-end API entrypoint in `config/api.js`.
 
 ## Demo
 
-![Demo Screenshot](demo-homepage.PNG)
+![Demo Screenshot](demo-homepage.png)
 
-![Demo Screenshot](demo-detailedpage.PNG)
+![Demo Screenshot](demo-detailedpage.png)
